@@ -1,0 +1,225 @@
+{
+  "skills": [
+    { "id": 1,  "name": "Java",        "category": "LANGUAGES",  "emoji": "☕", "color": "#f89820", "bg": "#fff8f0" },
+    { "id": 2,  "name": "Python",      "category": "LANGUAGES",  "emoji": "🐍", "color": "#3776AB", "bg": "#f0f6ff" },
+    { "id": 3,  "name": "C#",          "category": "LANGUAGES",  "emoji": "💜", "color": "#9b4f96", "bg": "#faf0ff" },
+    { "id": 4,  "name": "Kotlin",      "category": "LANGUAGES",  "emoji": "🎯", "color": "#7f52ff", "bg": "#f5f0ff" },
+    { "id": 5,  "name": "JavaScript",  "category": "LANGUAGES",  "emoji": "✨", "color": "#f0ad00", "bg": "#fffbf0" },
+    { "id": 7,  "name": "React",       "category": "FRAMEWORK",  "emoji": "⚛️", "color": "#61dafb", "bg": "#f0fcff" },
+    { "id": 8,  "name": "Angular",     "category": "FRAMEWORK",  "emoji": "🅰️", "color": "#dd0031", "bg": "#fff0f3" },
+    { "id": 9,  "name": "Django",      "category": "FRAMEWORK",  "emoji": "🎸", "color": "#092e20", "bg": "#f0fff8" },
+    { "id": 12, "name": "Node.js",     "category": "FRAMEWORK",  "emoji": "💚", "color": "#339933", "bg": "#f0fff0" },
+    { "id": 13, "name": "Git",         "category": "VERSIONS",   "emoji": "🔀", "color": "#f05032", "bg": "#fff5f0" },
+    { "id": 15, "name": "GitHub",      "category": "VERSIONS",   "emoji": "🐱", "color": "#181717", "bg": "#f8f8f8" },
+    { "id": 16, "name": "PostgreSQL",  "category": "DATABASE",   "emoji": "🐘", "color": "#336791", "bg": "#f0f5ff" },
+    { "id": 17, "name": "MongoDB",     "category": "DATABASE",   "emoji": "🍃", "color": "#47a248", "bg": "#f0fff3" },
+    { "id": 18, "name": "MySQL",       "category": "DATABASE",   "emoji": "🐬", "color": "#00758f", "bg": "#f0fbff" }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Drug-Drug interaction",
+      "description": "Predictive model for identifying harmful drug-drug interactions using biochemical properties and molecular structures.",
+      "tag": "AI/ML",
+      "tagColor": "#ec4899",
+      "tagBg": "#fdf2f8",
+      "likes": 0,
+      "icon": "💊",
+      "from": "#fb923c",
+      "to": "#ec4899"
+    },
+    {
+      "id": 2,
+      "title": "Beauty Scorer",
+      "description": "Computer vision application analyzing facial geometry and symmetry to generate aesthetic scores based on AI standards.",
+      "tag": "CV",
+      "tagColor": "#8b5cf6",
+      "tagBg": "#f5f3ff",
+      "likes": 0,
+      "icon": "✨",
+      "from": "#f472b6",
+      "to": "#db2777"
+    },
+    {
+      "id": 3,
+      "title": "Gender and Age predictor",
+      "description": "Real-time facial analysis tool using deep learning to predict demographic attributes from video streams.",
+      "tag": "PYTHON",
+      "tagColor": "#3b82f6",
+      "tagBg": "#eff6ff",
+      "likes": 0,
+      "icon": "👤",
+      "from": "#34d399",
+      "to": "#0d9488"
+    },
+    {
+      "id": 4,
+      "title": "legal document analyzer",
+      "description": "NLP system designed to summarize legal text and highlight critical clauses using advanced transformer models.",
+      "tag": "NLP",
+      "tagColor": "#0ea5e9",
+      "tagBg": "#f0f9ff",
+      "likes": 0,
+      "icon": "⚖️",
+      "from": "#c084fc",
+      "to": "#818cf8"
+    },
+    {
+      "id": 5,
+      "title": "pic to anime",
+      "description": "Generative adversarial network (GAN) that transforms standard portrait photos into high-quality anime illustrations.",
+      "tag": "GEN AI",
+      "tagColor": "#f59e0b",
+      "tagBg": "#fffbeb",
+      "likes": 0,
+      "icon": "🎨",
+      "from": "#a78bfa",
+      "to": "#7c3aed"
+    },
+    {
+      "id": 6,
+      "title": "health screening",
+      "description": "AI-driven diagnostic support system for early detection of health risks using multimodal medical data.",
+      "tag": "HEALTH",
+      "tagColor": "#10b981",
+      "tagBg": "#ecfdf5",
+      "likes": 0,
+      "icon": "🏥",
+      "from": "#60a5fa",
+      "to": "#2563eb"
+    }
+  ],
+  "certifications": [
+    {
+      "id": 1,
+      "title": "Oracle Cloud Infrastructure",
+      "subtitle": "Foundations Associate",
+      "provider": "Oracle",
+      "icon": "☁️",
+      "color": "#F80000",
+      "bg": "#fff5f5",
+      "year": "2024",
+      "pdfUrl": "/certs/oracle-cert.pdf"
+    },
+    {
+      "id": 2,
+      "title": "Advanced CSS Concepts",
+      "subtitle": "Frontend Specialization",
+      "provider": "Simplilearn",
+      "icon": "🎨",
+      "color": "#264de4",
+      "bg": "#f0f7ff",
+      "year": "2024",
+      "pdfUrl": "/certs/css-advanced.pdf"
+    },
+    {
+      "id": 3,
+      "title": "Artificial Intelligence",
+      "subtitle": "Professional Foundations",
+      "provider": "Great Learning",
+      "icon": "🤖",
+      "color": "#4285F4",
+      "bg": "#f0f4ff",
+      "year": "2024",
+      "pdfUrl": "/certs/ai-foundations.pdf"
+    },
+    {
+      "id": 4,
+      "title": "Generative AI",
+      "subtitle": "Deep Learning Specialization",
+      "provider": "Simplilearn",
+      "icon": "🧠",
+      "color": "#8b5cf6",
+      "bg": "#f5f3ff",
+      "year": "2024",
+      "pdfUrl": "/certs/gen-ai.pdf"
+    },
+    {
+      "id": 5,
+      "title": "Network & Internet Security",
+      "subtitle": "Cybersecurity",
+      "provider": "Infosys Springboard",
+      "icon": "🛡️",
+      "color": "#00b4e5",
+      "bg": "#f0fbff",
+      "year": "2024",
+      "pdfUrl": "/certs/network-security.pdf"
+    },
+    {
+      "id": 6,
+      "title": "MongoDB Developer",
+      "subtitle": "Database Administration",
+      "provider": "MongoDB",
+      "icon": "🍃",
+      "color": "#47a248",
+      "bg": "#f0fff3",
+      "year": "2024",
+      "pdfUrl": "/certs/mongodb-dev.pdf"
+    },
+    {
+      "id": 7,
+      "title": "Power BI Data Analyst",
+      "subtitle": "Data Visualization",
+      "provider": "Infosys Springboard",
+      "icon": "📊",
+      "color": "#f2c811",
+      "bg": "#fffcf0",
+      "year": "2024",
+      "pdfUrl": "/certs/power-bi.pdf"
+    },
+    {
+      "id": 8,
+      "title": "Cloud Computing",
+      "subtitle": "AWS Foundations",
+      "provider": "NPTEL",
+      "icon": "🌩️",
+      "color": "#ff9900",
+      "bg": "#fffbf0",
+      "year": "2024",
+      "pdfUrl": "/certs/cloud-computing.pdf"
+    },
+    {
+      "id": 9,
+      "title": "Python for Data Science",
+      "subtitle": "Professional Certificate",
+      "provider": "NPTEL",
+      "icon": "🐍",
+      "color": "#0f62fe",
+      "bg": "#f0f5ff",
+      "year": "2023",
+      "pdfUrl": "/certs/python-ds.pdf"
+    }
+  ],
+  "educationTimeline": [
+    {
+      "id": 1,
+      "degree": "Higher Secondary Education",
+      "shortDegree": "HSE",
+      "institution": "Maharishi School of Excellence",
+      "year": "2020 – 2022",
+      "description": "Completed 12th grade with a focus on Computer Science, Mathematics, and Physics.",
+      "side": "left",
+      "color": "#3b82f6"
+    },
+    {
+      "id": 2,
+      "degree": "Bachelor of Computer Science",
+      "shortDegree": "BCS",
+      "institution": "S.A College of Arts & Science",
+      "year": "2022 – 2025",
+      "description": "Graduated with First Class . Core subjects: ,Computer Architecture,Python,Data Structures, DBMS, Web Technologies, OOP with Java. Led the college Sports Teams.",
+      "side": "right",
+      "color": "#8b5cf6"
+    },
+    {
+      "id": 3,
+      "degree": "Master of Computer Applications",
+      "shortDegree": "MCA",
+      "institution": "S-VYASA Deemed to be University",
+      "year": "2025 – 2027",
+      "description": "Specialization in AI & Machine Learning & Data Science. Final project: 'Drug-Drug Interaction Predictor'. CGPA: 9.3/ 10.",
+      "side": "left",
+      "color": "#ec4899"
+    }
+  ]
+}
